@@ -7,7 +7,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="overview-wrap">
-                                    <h2 class="title-1">Feedback Result</h2>
+                                    <h2 class="title-1">Table Reserved</h2>
                                 </div>
                             </div>
                         </div>
@@ -21,7 +21,7 @@
                                                 <th>No</th>
                                                 <th>Name</th>
                                                 <th>Email</th>
-                                                <th>Message</th>
+                                                <th>No Table</th>
                                                 <th>Aksi</th>
                                             </tr>
                                         </thead>

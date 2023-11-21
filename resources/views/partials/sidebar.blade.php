@@ -27,7 +27,7 @@
                         </li>
                         <li>
                             <a href="{{ route('contacts.index') }}">
-                                <i class="fas fa-chart-bar"></i>Data Feedback</a>
+                                <i class="fas fa-chart-bar"></i>Data Reservation</a>
                         </li>
                         {{-- <li>
                             <a href="table.html">

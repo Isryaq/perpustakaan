@@ -22,7 +22,7 @@
                                                 <input type="email" name="email" class="form-control" value="{{ $contact->email }}">
                                             </div>
                                             <div class="form-group">
-                                                <label for="nf-password" class=" form-control-label">Pesan</label>
+                                                <label for="nf-password" class=" form-control-label">No Table</label>
                                                 <textarea  name="pesan" class="form-control">{{ $contact->pesan }}</textarea>
                                             </div>
                                             <button type="submit" class="btn btn-primary btn-sm">

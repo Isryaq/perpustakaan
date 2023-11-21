@@ -3,7 +3,7 @@
 
 @section('container')
 <div class="title-top mb-5">
-    <h2 class="fw-bold">Feedback</h2>
+    <h2 class="fw-bold">Reservation Table</h2>
 </div>
 <form method="post" action="{{route('contacts.store')}}">
   {{csrf_field()}}
@@ -16,7 +16,7 @@
     <!-- <label for="inputemail">Email address</label> -->
   </div>
   <div class="mb-3">
-    <textarea class="form-control" placeholder="Enter Your Message" id="floatingTextarea2" name="pesan" style="height: 100px;"></textarea>
+    <textarea class="form-control" placeholder="Enter Your Table Reserved" id="floatingTextarea2" name="pesan" style="height: 100px;"></textarea>
     <!-- <label for="inputname">Email address</label> -->
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
