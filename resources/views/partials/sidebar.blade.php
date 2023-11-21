@@ -1,7 +1,7 @@
 <aside class="menu-sidebar d-none d-lg-block">
             <div class="logo">
                 <a href="#">
-                    <img src=”{{ asset('admin/images/icon/logo.png') }}” alt="Cool Admin" />
+                    <img src="{{ asset('admin/images/icon/logo-blue.png') }}" alt="Cool Admin" />
                 </a>
             </div>
             <div class="menu-sidebar__content js-scrollbar1">
@@ -27,7 +27,7 @@
                         </li>
                         <li>
                             <a href="{{ route('contacts.index') }}">
-                                <i class="fas fa-chart-bar"></i>Data Contacts</a>
+                                <i class="fas fa-chart-bar"></i>Data Feedback</a>
                         </li>
                         {{-- <li>
                             <a href="table.html">

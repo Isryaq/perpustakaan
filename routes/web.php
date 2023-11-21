@@ -24,22 +24,20 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about', [
         "title" => 'About',
-        "nama" => "Jabrielius Rangga",
-        "email" => "vrangga1@gmaiul.com",
-        "gambar" => "mockup-ticketin.png"
+        "nama" => "Isryaq Egy Herdiansyah",
+        "email" => "541211092@student.smktelkom-pwt.sch.id",
+        "gambar" => "profil.jpeg"
     ]);
 });
 
-Route::get('/gallery', function () {
-    return view('gallery', [
-        "title" => 'Gallery'
-    ]);
-});
+// Route::get('/gallery', function () {
+//     return view('gallery', [
+//         "title" => 'Gallery'
+//     ]);
+// });
 
-// Rote dihubungkan ke controller(fungsi di web)
-//route::resource('/halaman', namaController::class);
 // Route::resource('/contacts', ContactController::class);
-Route::get('/contacts/create',[ContactController::class, 'create'])->name('contacts.create');
+Route::get('/contacts',[ContactController::class, 'create'])->name('contacts.create');
 Route::post('/contacts/store',[ContactController::class, 'store'])->name('contacts.store');
 
 Auth::routes();
