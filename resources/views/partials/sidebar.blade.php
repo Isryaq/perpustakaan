@@ -1,8 +1,9 @@
 <aside class="menu-sidebar d-none d-lg-block">
-            <div class="logo">
+            <div class="logo" >
                 <a href="#">
-                    <img src="{{ asset('admin/images/icon/logo-blue.png') }}" alt="Cool Admin" />
+                    <img src="{{ asset('admin/images/icon/logo-bl.png') }}" alt="biliard" width="60" style="margin-left: 35px" />
                 </a>
+                <p>Biliard Pool</p>
             </div>
             <div class="menu-sidebar__content js-scrollbar1">
                 <nav class="navbar-sidebar">

@@ -21,14 +21,14 @@ Route::get('/', function () {
     ]);
 });
 
-Route::get('/about', function () {
-    return view('about', [
-        "title" => 'About',
-        "nama" => "Isryaq Egy Herdiansyah",
-        "email" => "541211092@student.smktelkom-pwt.sch.id",
-        "gambar" => "profil.jpeg"
-    ]);
-});
+// Route::get('/about', function () {
+//     return view('about', [
+//         "title" => 'About',
+//         "nama" => "Isryaq Egy Herdiansyah",
+//         "email" => "541211092@student.smktelkom-pwt.sch.id",
+//         "gambar" => "profil.jpeg"
+//     ]);
+// });
 
 // Route::get('/gallery', function () {
 //     return view('gallery', [

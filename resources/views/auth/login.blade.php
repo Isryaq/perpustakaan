@@ -24,7 +24,7 @@
                     <div class="login-content bg-secondary">
                         <div class="login-logo">
                             <a href="#">
-                                <img src="{{ asset('admin/images/icon/logo-bl.png') }}" alt="biliard">
+                                <img src="{{ asset('admin/images/icon/logo-bl.png') }}" alt="biliard" width="80">
                             </a>
                         </div>
                         <div class="login-form">
