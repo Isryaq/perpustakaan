@@ -68,7 +68,7 @@
                     <h1>Who We Are?</h1>
                     <br>
                     <p> Whether you're a seasoned player seeking competitive challenges or someone looking to enjoy a leisurely game among friends, Billiards Pool offers a welcoming space for all skill levels.
-                        Join us and immerse yourself in the world of precision, strategy, and fun at Billiards Pool Haven."</p>
+                        Join us and immerse yourself in the world of precision, strategy, and fun at Billiards Pool Haven.</p>
                 </div>
             </div>
             <div class="row justify-content-center">
@@ -77,7 +77,7 @@
                         <div class="col-md-4">
                             <div class="card shadow-sm">
                                 <div class="card-body">
-                                    <img src="img/kajal.jpg" class="img-fluid rounded-circle" alt="">
+                                    <img src="images/Avatar 20.png" class="img-fluid rounded-circle" alt="">
                                     <h3>Raffi</h3>
                                     <p class="text-secondary">co-founder</p>
                                    <p>Hello there!</p>
@@ -88,7 +88,7 @@
                         <div class="col-md-4">
                             <div class="card shadow-sm">
                                 <div class="card-body">
-                                    <img src="img/vidyut.jpg" class="img-fluid rounded-circle" alt="">
+                                    <img src="images/Avatar 21.png" class="img-fluid rounded-circle" alt="">
                                     <h3>Madun</h3>
                                     <p class="text-secondary">CTO</p>
                                     <p>Hello there!</p>
@@ -99,7 +99,7 @@
                         <div class="col-md-4">
                             <div class="card shadow-sm">
                                 <div class="card-body">
-                                    <img src="img/yuvi.jpg" class="img-fluid rounded-circle" alt="">
+                                    <img src="images/Avatar 19.png" class="img-fluid rounded-circle" alt="">
                                     <h3>Egy</h3>
                                     <p class="text-secondary">CEO</p>
                                     <p>Hello everyone!</p>
